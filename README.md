@@ -7,6 +7,6 @@ Explore following :
 
 - Deploy a few rest web services using goji
 - Start out with user module
-- Persist to mongo
-- Setup up Continous Integration / Deployment (CI / CD)
+- Persist to mongo using mgo
+- Setup up Continous Integration / Deployment (CI / CD). Explore jenkins or some cloud CI/CD like travis or shippable
 - Deploy with haproxy (load balancer), nginx (ssl termination)
