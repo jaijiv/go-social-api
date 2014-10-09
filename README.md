@@ -1,5 +1,5 @@
-go-social
-=========
+go-social-api
+=============
 
 Sample social app written in go and mongo
 
