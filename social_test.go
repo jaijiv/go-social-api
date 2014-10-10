@@ -6,5 +6,5 @@ import (
 )
 
 func TestTestMe(t *testing.T) {
-	log.Println("Started social app...")
+	log.Println("Testing TestMe function...")
 }
